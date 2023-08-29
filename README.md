@@ -4,14 +4,14 @@ Welcome to the Customer Analytics Projects repository! This repository houses a 
 
 ## Projects Overview
 
-### 1. Designing a Customer Data Platform
+### [1.Designing a Customer Data Platform](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/3d8a31e35a7b05c06c111aaf7241a83e556bb90d/Customer%20Data%20Platform)
 Create a comprehensive customer data platform that centralizes and integrates customer information from various sources. This project explores strategies for unifying customer data, ensuring data quality, and enabling a single view of the customer.
 
-### 2. Customer Lifetime Value (CLV) Estimation
+### [2. Customer Insight Analysis and Customer Lifetime Value (CLV) Estimation](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/3d8a31e35a7b05c06c111aaf7241a83e556bb90d/Customer%20Insight%20Analysis)
 Estimate the potential value of individual customers over their lifecycle. This project covers different methods for calculating CLV and demonstrates its significance in shaping marketing and sales strategies.
 
-### 3. Customer Scoring (Churn, Campaign Response)
-Implement predictive models to score customers based on their likelihood to churn or respond to marketing campaigns. Learn how to leverage machine learning algorithms to anticipate customer actions and tailor interventions.
+### [3. Customer Scoring](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/3d8a31e35a7b05c06c111aaf7241a83e556bb90d/Customer%20Scoring)
+This project aims to enhance the effectiveness of our existing customer loyalty program by incorporating customer scoring techniques. By utilizing data-driven insights and customer segmentation, we intend to create a more personalized and engaging loyalty experience that caters to individual preferences and behaviors.
 
 ### 4. Customer Segmentation and Product Recommendation
 Segment customers based on behavioral patterns and preferences. This project dives into clustering techniques and demonstrates how segmentation can drive personalized product recommendations.
