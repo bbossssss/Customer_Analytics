@@ -3,9 +3,10 @@
 Customer scoring is a technique used by businesses to evaluate and rank their customers based on predefined criteria. It involves assigning a numerical score to each customer, typically on a scale, to quantify their potential value, engagement level, or likelihood to take specific actions. The scores are calculated by considering various attributes, behaviors, and interactions that customers exhibit.
 
 ## Upgrading Dusit Thani Customer Loyalty Program with Customer Scoring
+
 ### About Dusit Thani Group
-![Customer_scoring-01](https://github.com/bbossssss/MADT8101_Customer_Analytics/assets/138359354/e73197b7-0493-4427-beea-5b667b4844d1)
-![Customer_scoring-02](https://github.com/bbossssss/MADT8101_Customer_Analytics/assets/138359354/b8a22d2e-a9ea-4958-b9fa-f61e2f84b0db)
+![Customer_scoring-01](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/b39936f208ff55f36be906ab9e47474f6e8bc00a/Customer%20Scoring/Image/Customer_scoring-01.png)
+![Customer_scoring-02](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/b39936f208ff55f36be906ab9e47474f6e8bc00a/Customer%20Scoring/Image/Customer_scoring-02.png)
 
 ### Current Loyalty Program
 ![Customer_scoring-03](https://github.com/bbossssss/MADT8101_Customer_Analytics/assets/138359354/96193fbd-7283-4e90-85b2-948d6afd3bf4)
