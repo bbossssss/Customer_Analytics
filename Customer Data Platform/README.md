@@ -3,7 +3,7 @@
 A Customer Data Platform (CDP) is a software solution designed to collect, consolidate, and manage customer data from various sources in order to create a unified and comprehensive customer profile. The goal of a CDP is to provide businesses with a centralized platform where they can gather data from different channels, such as websites, mobile apps, social media, email interactions, and more.
 
 ## Concept of Customer Data Platform
-![Customer Data Platform](https://github.com/bbossssss/Customer_Analytics/assets/138359354/c25be1dc-57c9-4a44-b949-ce9026ffb223)
+![Customer Data Platform](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/00ffaa1692282507af4834fe0da4dba2dd3eeb46/Customer%20Data%20Platform/Image/Customer%20Data%20Platform.png)
 
 ### Customer Action
 A customer interacts with your online platform, such as browsing products, adding items to their cart, and making purchases. These actions generate valuable data about their preferences and behaviors.
@@ -24,4 +24,4 @@ The insights derived from the machine learning analysis can be visualized using 
 The insights gained from the data analysis drive business actions. For instance, the e-commerce platform might personalize product recommendations for the customer, send targeted marketing campaigns, adjust pricing strategies, or optimize the user experience based on the patterns identified.
 
 ## Customer Data Platform on Google Cloud Platform (GCP)
-![GCP_CDP](https://github.com/bbossssss/Customer_Analytics/assets/138359354/ecc77a62-318d-46b8-9cb6-b878032c925e)
+![GCP_CDP](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/00ffaa1692282507af4834fe0da4dba2dd3eeb46/Customer%20Data%20Platform/Image/GCP_CDP.png)
