@@ -16,7 +16,7 @@ The data used in this project consists of customer reviews for "Copper Beyond Bu
 
 ## How to Run
 
-1. Open the [Google Colab notebook](voice%20of%20customer.ipynb) in your browser.
+1. Open the [Google Colab notebook](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/c7eaa31bd454cc455ef8ac11c2a5c4236484823e/Voice%20of%20Customer/Voice_of_customer.ipynb) in your browser.
 
 2. Click on "Open in Colab" to run the notebook in your Google Colab environment.
 
