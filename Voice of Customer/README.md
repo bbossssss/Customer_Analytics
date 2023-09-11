@@ -26,6 +26,8 @@ The data used in this project consists of customer reviews for "Copper Beyond Bu
 
 The project results include visualizations of topic distributions, identification of dominant topics in customer reviews, and the assignment of topics and scores to each customer review.
 
+![Visualizations](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/6e624bbddb9119de59484f4089200d3a68035789/Voice%20of%20Customer/image/Visualizing_results.png)
+
 ## License
 
 This project is open-source and is available under the [MIT License](LICENSE). You are free to use and modify the code for educational and non-commercial purposes.
