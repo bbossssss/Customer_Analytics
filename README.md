@@ -16,7 +16,8 @@ This project aims to enhance the effectiveness of our existing customer loyalty 
 ### [4. Customer Segmentation and Product Recommendation](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/86106a462a017f92257fd310c27eb2cbaec9b667/Customer%20Segmentation%20and%20Product%20Recommendation)
 Segment customers based on behavioral patterns and preferences. This project dives into clustering techniques and demonstrates how segmentation can drive personalized product recommendations.
 
-### [5. Voice of Customer Analytics](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/81b0f5ec08d4ed81640fbb5993b5bcd6b0afb367/Voice%20of%20Customer)
+### [5. Voice of Customer Analytics](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/1507f74c747fffb3b0436d08c891c1161859d365/Voice%20of%20Customer)
+
 Extract valuable insights from customer feedback and sentiments. Explore techniques for sentiment analysis, topic modeling, and understanding the "voice" of your customers to enhance product and service offerings.
 
 ## Getting Started
