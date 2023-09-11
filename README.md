@@ -13,7 +13,7 @@ Estimate the potential value of individual customers over their lifecycle. This 
 ### [3. Customer Scoring](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/3d8a31e35a7b05c06c111aaf7241a83e556bb90d/Customer%20Scoring)
 This project aims to enhance the effectiveness of our existing customer loyalty program by incorporating customer scoring techniques. By utilizing data-driven insights and customer segmentation, we intend to create a more personalized and engaging loyalty experience that caters to individual preferences and behaviors.
 
-### [4. Customer Segmentation and Product Recommendation]
+### [4. Customer Segmentation and Product Recommendation](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/86106a462a017f92257fd310c27eb2cbaec9b667/Customer%20Segmentation%20and%20Product%20Recommendation)
 Segment customers based on behavioral patterns and preferences. This project dives into clustering techniques and demonstrates how segmentation can drive personalized product recommendations.
 
 ### [5. Voice of Customer Analytics](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/81b0f5ec08d4ed81640fbb5993b5bcd6b0afb367/Voice%20of%20Customer)
