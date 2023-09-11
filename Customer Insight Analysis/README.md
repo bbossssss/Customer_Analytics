@@ -65,7 +65,7 @@ Our journey begins here. Dive into the world of data-driven retail strategies an
 
 If you have questions, suggestions, or want to collaborate, please contact me at Satornboss@gmail.com.
 
-Thank you for joining us on this exciting data journey!
+Thank you for joining on this exciting data journey!
 
 
 
