@@ -2,13 +2,15 @@
 
 This Google Colab notebook contains a Voice of Customer (VoC) analytics project aimed at analyzing and extracting insights from customer reviews and feedback for the "Copper Beyond Buffet" restaurant on Wongnai.com.
 
+![Visualizations](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/6e624bbddb9119de59484f4089200d3a68035789/Voice%20of%20Customer/image/Visualizing_results.png)
+
 ## Overview
 
 The VoC analytics project utilizes natural language processing (NLP) techniques to gain a deeper understanding of customer sentiments and opinions based on the reviews available on Wongnai.com. The notebook includes steps for data loading, text preprocessing, topic modeling, and visualization.
 
 ## Project Notebook
 
-- **Project Notebook**: [voice of customer.ipynb](voice%20of%20customer.ipynb)
+- **Project Notebook**: [voice of customer.ipynb](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/209376606eb57a8937a7f67046282eb152625321/Voice%20of%20Customer/Voice_of_customer.ipynb)
 
 ## Data
 
@@ -78,8 +80,6 @@ Feel free to explore the code to gain insights into how customer feedback is pro
 ## Results
 
 The project results include visualizations of topic distributions, identification of dominant topics in customer reviews, and the assignment of topics and scores to each customer review.
-
-![Visualizations](https://github.com/bbossssss/MADT8101_Customer_Analytics/blob/6e624bbddb9119de59484f4089200d3a68035789/Voice%20of%20Customer/image/Visualizing_results.png)
 
 ## License
 
