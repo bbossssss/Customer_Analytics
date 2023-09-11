@@ -42,5 +42,5 @@ Please click on the image links above to view the visualizations and results rel
 
 If you have any questions or suggestions regarding this project, feel free to contact me at Satornboss@gmail.com.
 
-Thank you for your interest in our project!
+Thank you for your interest in project!
 
