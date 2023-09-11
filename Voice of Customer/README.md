@@ -87,6 +87,6 @@ This project is open-source and is available under the [MIT License](LICENSE). Y
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to contact Satorn at Satornboss@gmail.com.
+If you have any questions or suggestions regarding this project, feel free to contact Boss at Satornboss@gmail.com.
 
 Happy analyzing the Voice of Customer data in Google Colab!
