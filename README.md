@@ -4,7 +4,7 @@ Welcome to the Customer Analytics Projects repository! This repository houses a 
 
 ## Projects Overview
 
-### [1.Designing a Customer Data Platform](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/3d8a31e35a7b05c06c111aaf7241a83e556bb90d/Customer%20Data%20Platform)
+### [1. Designing a Customer Data Platform](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/3d8a31e35a7b05c06c111aaf7241a83e556bb90d/Customer%20Data%20Platform)
 Create a comprehensive customer data platform that centralizes and integrates customer information from various sources. This project explores strategies for unifying customer data, ensuring data quality, and enabling a single view of the customer.
 
 ### [2. Customer Insight Analysis and Customer Lifetime Value (CLV) Estimation](https://github.com/bbossssss/MADT8101_Customer_Analytics/tree/3d8a31e35a7b05c06c111aaf7241a83e556bb90d/Customer%20Insight%20Analysis)
